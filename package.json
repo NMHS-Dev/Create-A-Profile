@@ -1,0 +1,19 @@
+{
+  "name": "adobe-api-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NMHS-Dev/Create-A-Profile.git"
+  },
+  "author": "adobe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NMHS-Dev/Create-A-Profile/issues"
+  },
+  "homepage": "https://github.com/NMHS-Dev/Create-A-Profile#readme"
+}
